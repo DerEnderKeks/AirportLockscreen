@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Airport Lockscreen</string>
+    <string name="app_author">DerEnderKeks</string>
+    <string name="title_activity_about">About</string>
+    <string name="text_made_by">Made by</string>
+    <string name="text_version">Version: %s</string>
+    <string name="preference_enabled">enabled</string>
+    <string name="message_enabled">Airport Lockscreen enabled</string>
+    <string name="message_disabled">Airport Lockscreen disabled</string>
+    <string name="device_admin_description">Allow this app to disable lockscreen features</string>
+    <string name="message_no_permission">Device administrator permission required!</string>
+    <string name="keyguard_disable_features_all">Disable all features</string>
+    <string name="keyguard_disable_fingerprint">Disable fingerprint</string>
+    <string name="keyguard_disable_remote_input">Disable remote input</string>
+    <string name="keyguard_disable_secure_camera">Disable secure camera</string>
+    <string name="keyguard_disable_secure_notifications">Disable all notifications</string>
+    <string name="keyguard_disable_trust_agents">Disable trust agents</string>
+    <string name="keyguard_disable_unredacted_notifications">Disable unredacted notifications</string>
+    <string name="keyguard_disable_widgets_all">Disable all widgets</string>
+    <string name="preference_keyguard_disable_features_all">keyguard_disable_features_all</string>
+    <string name="preference_keyguard_disable_fingerprint">keyguard_disable_fingerprint</string>
+    <string name="preference_keyguard_disable_remote_input">keyguard_disable_remote_input</string>
+    <string name="preference_keyguard_disable_secure_camera">eyguard_disable_secure_camera</string>
+    <string name="preference_keyguard_disable_secure_notifications">keyguard_disable_secure_notifications</string>
+    <string name="preference_keyguard_disable_trust_agents">keyguard_disable_trust_agents</string>
+    <string name="preference_keyguard_disable_unredacted_notifications">keyguard_disable_unredacted_notifications</string>
+    <string name="preference_keyguard_disable_widgets_all">keyguard_disable_widgets_all</string>
+</resources>
